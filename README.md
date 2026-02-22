@@ -13,6 +13,10 @@
 
 > Minimal software, maximal control. Everything is vim-keyed, everything is patched, nothing is bloated.
 
+### Vibecoding to the max
+
+![Vibecoding to the max](vibecoding.png)
+
 ## Projects
 
 ### The Desktop
