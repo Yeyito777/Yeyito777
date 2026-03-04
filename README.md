@@ -23,6 +23,7 @@
 
 My entire desktop environment is hand-patched suckless software + a custom browser:
 
+- **[yeyito-dwm](https://github.com/Yeyito777/yeyito-dwm)** - Custom dwm with personal patches
 - **[yeyito-term](https://github.com/Yeyito777/yeyito-term)** - Custom vim-like terminal (st fork)
 - **[yeyito-browser](https://github.com/Yeyito777/yeyito-browser)** - Heavily patched qutebrowser fork
 - **[yeyito-dmenu](https://github.com/Yeyito777/yeyito-dmenu)** - Custom dmenu
@@ -30,6 +31,7 @@ My entire desktop environment is hand-patched suckless software + a custom brows
 
 ### Tools
 
+- **[Draw](https://github.com/Yeyito777/Draw)** - Screenshot annotation tool with draw/erase, colour palette, undo/redo
 - **[MusicPlayer](https://github.com/Yeyito777/MusicPlayer)** - Minimal TUI music player in C with vim-style navigation and mpv backend
 - **[Notify](https://github.com/Yeyito777/Notify)** - Notification system
 - **[Brightness-control](https://github.com/Yeyito777/Brightness-control)** - Screen brightness utility
